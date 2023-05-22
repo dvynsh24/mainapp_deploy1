@@ -1,7 +1,7 @@
 import streamlit as st
 import re
-from pages.contact_utils.helper import send_email
-from pages.contact_utils.constants import (
+from contact_utils.helper import send_email
+from contact_utils.constants import (
     SMTP_SERVER_ADDRESS,
     PORT,
     SENDER_PASSWORD,

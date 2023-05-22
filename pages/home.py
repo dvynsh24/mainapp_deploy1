@@ -40,6 +40,3 @@ def display_home():
     [violet]colors[/violet]. Another perk is those beautiful arrows -> <-
     """
     )
-
-
-display_home()
